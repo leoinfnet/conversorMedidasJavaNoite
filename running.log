@@ -1,0 +1,28 @@
+21:45:31.419 174  [main] INFO  br.com.infnet.App - Iniciando o Programa
+21:45:41.732 10487 [main] INFO  br.com.infnet.App - Inicio do calculo de conversão
+21:45:41.735 10490 [main] INFO  br.com.infnet.App - Final do metodo de conversao com tempo: 1 MS
+21:45:41.736 10491 [main] INFO  br.com.infnet.App - Finalizando o Programa
+21:45:54.518 184  [main] INFO  br.com.infnet.App - Iniciando o Programa
+21:45:59.278 4944 [main] INFO  br.com.infnet.App - Inicio do calculo de conversão
+21:45:59.282 4948 [main] INFO  br.com.infnet.App - Final do metodo de conversao com tempo: 0 MS
+21:45:59.283 4949 [main] INFO  br.com.infnet.App - Finalizando o Programa
+21:46:40.903 152  [main] INFO  br.com.infnet.App - Iniciando o Programa
+21:46:46.135 5384 [main] INFO  br.com.infnet.App - Inicio do calculo de conversão
+21:46:46.244 5493 [main] INFO  br.com.infnet.App - Final do metodo de conversao com tempo: 107 MS
+21:46:46.245 5494 [main] INFO  br.com.infnet.App - Finalizando o Programa
+21:46:53.739 194  [main] INFO  br.com.infnet.App - Iniciando o Programa
+21:46:58.364 4819 [main] INFO  br.com.infnet.App - Inicio do calculo de conversão
+21:46:58.472 4927 [main] INFO  br.com.infnet.App - Final do metodo de conversao com tempo: 101 MS
+21:46:58.474 4929 [main] INFO  br.com.infnet.App - Finalizando o Programa
+21:47:45.919 136  [main] INFO  br.com.infnet.App - Iniciando o Programa
+21:47:54.711 8928 [main] INFO  br.com.infnet.App - Inicio do calculo de conversão
+21:47:54.819 9036 [main] INFO  br.com.infnet.App - Final do metodo de conversao com tempo: 103 MS para o valor:-666.666
+21:47:54.820 9037 [main] INFO  br.com.infnet.App - Finalizando o Programa
+21:48:04.741 170  [main] INFO  br.com.infnet.App - Iniciando o Programa
+21:48:10.390 5819 [main] INFO  br.com.infnet.App - Inicio do calculo de conversão
+21:48:10.499 5928 [main] INFO  br.com.infnet.App - Final do metodo de conversao com tempo: 102 MS para o valor:-89823.0
+21:48:10.499 5928 [main] INFO  br.com.infnet.App - Finalizando o Programa
+21:48:49.543 225  [main] INFO  br.com.infnet.App - Iniciando o Programa
+21:48:54.829 5511 [main] INFO  br.com.infnet.App - Inicio do calculo de conversão
+21:48:54.835 5517 [main] INFO  br.com.infnet.App - Final do metodo de conversao com tempo: 0 MS para o valor:-666.7
+21:48:54.836 5518 [main] INFO  br.com.infnet.App - Finalizando o Programa
